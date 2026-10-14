@@ -1,0 +1,25 @@
+{
+    "nav": {
+        "home": "Home",
+        "tours": "Tours",
+        "about": "About Us",
+        "service": "Service",
+        "contact": "Contact",
+        "login": "Log in",
+        "book": "Book a tour",
+        "admin_panel": "Admin panel",
+        "profile": "My profile",
+        "logout": "Logout"
+    },
+    "footer": {
+        "about": "We organize unforgettable journeys across Samarkand and Uzbekistan - history, culture, and hospitality all in one place.",
+        "quick_links": "Quick links",
+        "contact": "Contact",
+        "address": "Registan street, Samarkand",
+        "follow": "Follow us",
+        "rights": "All rights reserved.",
+        "legal": "Legal",
+        "offer": "Public Offer",
+        "privacy": "Privacy Policy"
+    }
+}

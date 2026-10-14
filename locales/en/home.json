@@ -1,0 +1,54 @@
+{
+    "hero": {
+        "eyebrow": "Samarkand, Uzbekistan",
+        "slide_1_title": "Discover the secrets of Registan",
+        "slide_1_subtitle": "A thousand years of heritage, right before your eyes",
+        "slide_2_title": "The Silk Road awaits you",
+        "slide_2_subtitle": "History in every step, legend in every corner",
+        "slide_3_title": "Feel the splendor of the East",
+        "slide_3_subtitle": "Tilework, domes, and unforgettable scenery",
+        "slide_4_title": "Samarkand - a time machine",
+        "slide_4_subtitle": "A city where the past and present come together",
+        "slide_5_title": "Every stone tells a story",
+        "slide_5_subtitle": "Your journey starts right here",
+        "slide_6_title": "Under the sky, within history",
+        "slide_6_subtitle": "Unforgettable days await you",
+        "cta_primary": "View tours",
+        "cta_secondary": "About us",
+        "search_placeholder": "Which tour or city interests you?",
+        "search_button": "Search",
+        "search_destinations_label": "Destinations",
+        "search_tours_label": "Tours",
+        "search_no_results": "No results found"
+    },
+    "popular": {
+        "eyebrow": "Selected destinations",
+        "title": "Popular tours",
+        "days_short": "days",
+        "view": "View",
+        "view_all": "View all tours"
+    },
+    "destinations": {
+        "eyebrow": "Where to go",
+        "title": "Choose a destination",
+        "subtitle": "Every city awaits you with its own history and rhythm",
+        "tours_count": "tours",
+        "explore": "Explore",
+        "view_all": "All destinations"
+    },
+    "stats": {
+        "years": "years of experience",
+        "satisfaction": "customer satisfaction",
+        "adventures": "completed trips",
+        "travelers": "happy travelers"
+    },
+    "testimonials": {
+        "eyebrow": "Feedback",
+        "title": "What travelers say",
+        "review_1": "The Samarkand tour was truly unforgettable. Our guide was knowledgeable and warm, telling the history of every place in a fascinating way.",
+        "review_2": "Wonderful organization! Everything was planned precisely, with no issues at all. Seeing Bukhara and Khiva had been my dream, and it finally came true.",
+        "review_3": "Registan Square was even more beautiful than I imagined. The team is very professional, I highly recommend them!",
+        "review_4": "A well-organized trip, though a few days felt quite packed. Overall, I'm very satisfied.",
+        "review_5": "Traveling along the Silk Road was one of the best experiences of my life. Thank you to the DiscoverStans team!"
+    }
+}

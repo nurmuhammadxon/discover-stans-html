@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Admin — DiscoverStans</title>
+<link rel="icon" href="images/logo.png">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/admin.css">
+</head>
+<body class="admin-body">
+<div id="adm-guard" class="adm-guard"><span class="spin"></span><span id="adm-guard-text">...</span></div>
+<div id="adm-app" class="adm-app" hidden>
+  <aside class="adm-side" id="adm-side">
+    <a class="adm-brand" href="index.html"><img src="images/logo.png" alt="DiscoverStans"><span>Admin</span></a>
+    <nav class="adm-nav" id="adm-nav"></nav>
+    <div class="adm-side-foot">
+      <select class="select adm-lang" id="adm-lang" aria-label="Language">
+        <option value="uz">O'zbekcha</option><option value="ru">Русский</option><option value="en">English</option>
+      </select>
+      <a class="adm-link" href="index.html" id="adm-site"></a>
+      <button class="adm-link" id="adm-logout" type="button"></button>
+    </div>
+  </aside>
+  <div class="adm-backdrop" id="adm-backdrop"></div>
+  <div class="adm-main">
+    <header class="adm-top"><button class="adm-burger" id="adm-burger" type="button" aria-label="Menu"></button><strong id="adm-top-title"></strong></header>
+    <main class="adm-content" id="adm-view"></main>
+  </div>
+</div>
+<script src="js/config.js"></script>
+<script src="js/core.js"></script>
+<script src="js/admin/admin.js"></script>
+<script src="js/admin/pages.js"></script>
+<script src="js/admin/tours.js"></script>
+<script>DS.Admin.start();</script>
+</body>
+</html>

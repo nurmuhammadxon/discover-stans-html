@@ -1,0 +1,38 @@
+{
+    "title": "My Profile",
+    "full_name": "Full name",
+    "email": "Email",
+    "phone": "Phone",
+    "language": "Language",
+    "language_uz": "O'zbekcha",
+    "language_ru": "Русский",
+    "language_en": "English",
+    "role": "Role",
+    "role_admin": "Admin",
+    "role_agent": "Agent",
+    "role_customer": "Customer",
+    "save": "Save",
+    "saving": "Saving...",
+    "success": "Profile updated",
+    "error_generic": "Something went wrong",
+    "error_load": "Couldn't load profile",
+    "email_dialog": {
+        "title": "Change your email?",
+        "current": "Current email",
+        "next": "New email",
+        "description": "Once confirmed, the new email will be used to sign in.",
+        "cancel": "Cancel",
+        "confirm": "Confirm"
+    },
+    "bookings": {
+        "title": "My bookings",
+        "empty": "You don't have any bookings yet",
+        "error_load": "Couldn't load bookings",
+        "adults_short": "adults",
+        "children_short": "children",
+        "status_pending": "Pending",
+        "status_confirmed": "Confirmed",
+        "status_completed": "Completed",
+        "status_cancelled": "Cancelled"
+    }
+}

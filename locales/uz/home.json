@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "eyebrow": "Samarqand, O'zbekiston",
+    "slide_1_title": "Registon sirlarini kashf eting",
+    "slide_1_subtitle": "Ming yillik meros, bir lahzada sizning koz oningizda",
+    "slide_2_title": "Ipak yoli sizni kutmoqda",
+    "slide_2_subtitle": "Har qadamda tarix nafasi, har burchakda afsona",
+    "slide_3_title": "Sharq shukuhini his eting",
+    "slide_3_subtitle": "Koshinlar, gumbazlar va unutilmas manzaralar",
+    "slide_4_title": "Samarqand - vaqt mashinasi",
+    "slide_4_subtitle": "Otmish bilan bugungi kun uygunlashgan shahar",
+    "slide_5_title": "Har bir tosh - bir hikoya",
+    "slide_5_subtitle": "Sayohatingiz aynan shu yerdan boshlanadi",
+    "slide_6_title": "Osmon ostida, tarix ichida",
+    "slide_6_subtitle": "Unutilmas kunlar sizni kutmoqda",
+    "cta_primary": "Turlarni korish",
+    "cta_secondary": "Biz haqimizda",
+    "search_placeholder": "Qaysi tur yoki shahar qiziqtiradi?",
+    "search_button": "Qidirish",
+    "search_destinations_label": "Yo'nalishlar",
+    "search_tours_label": "Turlar",
+    "search_no_results": "Hech narsa topilmadi"
+  },
+  "popular": {
+    "eyebrow": "Tanlangan yonalishlar",
+    "title": "Mashhur turlar",
+    "days_short": "kun",
+    "view": "Korish",
+    "view_all": "Barcha turlarni korish"
+  },
+  "destinations": {
+    "eyebrow": "Qayerga boramiz",
+    "title": "Yonalishlarni tanlang",
+    "subtitle": "Har bir shahar oz tarixi, oz ohangi bilan sizni kutmoqda",
+    "tours_count": "ta tur",
+    "explore": "Korish",
+    "view_all": "Barcha yonalishlar"
+  },
+  "stats": {
+    "years": "yillik tajriba",
+    "satisfaction": "mijozlar mamnunligi",
+    "adventures": "yakunlangan sayohat",
+    "travelers": "baxtli sayohatchi"
+  },
+  "testimonials": {
+    "eyebrow": "Fikr-mulohazalar",
+    "title": "Sayohatchilar nima deydi",
+    "review_1": "Samarqand turi haqiqatan unutilmas edi. Gid juda bilimdon va mehribon edi, har bir joyning tarixini qiziqarli tarzda gapirib berdi.",
+    "review_2": "Ajoyib tashkilot! Hamma narsa aniq rejalashtirilgan, hech qanday muammo bo'lmadi. Buxoro va Xivani ko'rish orzuim edi, nihoyat amalga oshdi.",
+    "review_3": "Registon maydoni tasavvurimdan ham chiroyli chiqdi. Jamoa juda professional, tavsiya qilaman!",
+    "review_4": "Yaxshi tashkil qilingan sayohat, lekin ba'zi kunlar juda band edi. Umuman olganda mamnunman.",
+    "review_5": "Ipak yo'li bo'ylab sayohat hayotimdagi eng yaxshi tajribalardan biri bo'ldi. Rahmat DiscoverStans jamoasiga!"
+  }
+}

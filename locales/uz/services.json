@@ -1,0 +1,33 @@
+{
+    "eyebrow": "Xizmatlarimiz",
+    "title": "Sayohatingiz uchun eng yaxshi yechimlar",
+    "subtitle": "Diqqat bilan ishlab chiqilgan, mahalliy jamoa tomonidan boshqariladigan va to'liq qo'llab-quvvatlanadigan xizmatlar",
+    "meta_title": "Xizmatlarimiz — DiscoverStans",
+    "meta_description": "DiscoverStans taklif qiladigan sayohat xizmatlari bilan tanishing — gid hamrohligidagi turlardan tortib to'liq sayohat yordamigacha.",
+    "items": {
+        "transportation": {
+            "title": "Transport",
+            "text": "Markaziy Osiyo bo'ylab qulay va ishonchli transport — aeroportdan olib ketish, shaharlararo sayohat va professional haydovchilar bilan shaxsiy transport"
+        },
+        "visa_support": {
+            "title": "Viza yordami",
+            "text": "Viza bo'yicha maslahat, taklifnoma va hujjatlar bilan yordam beramiz, silliq va bezovtalanmasdan kirish uchun"
+        },
+        "tours": {
+            "title": "Turlar",
+            "text": "O'zbekiston va Markaziy Osiyo bo'ylab diqqat bilan tanlangan guruh va shaxsiy turlar — madaniyat, tabiat va haqiqiy tajribalar"
+        },
+        "itineraries": {
+            "title": "Sayohat dasturlari",
+            "text": "Bizning mutaxassislar jamoasi barcha rejalashtirish va logistikani o'z zimmasiga oladi, sizga batafsil dastur taqdim etadi"
+        },
+        "insurance": {
+            "title": "Sayohat sug'urtasi",
+            "text": "Sayohat sug'urtasi har qanday safarning muhim qismi bo'lib, xotirjamlik va himoya beradi"
+        },
+        "corporate": {
+            "title": "Korporativ va B2B",
+            "text": "Biznes, konferensiya va guruh tadbirlari uchun maxsus moslashtirilgan sayohat yechimlari, alohida qo'llab-quvvatlash bilan"
+        }
+    }
+}

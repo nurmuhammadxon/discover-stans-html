@@ -1,0 +1,33 @@
+{
+    "eyebrow": "Our Services",
+    "title": "The best solutions for your journey",
+    "subtitle": "Carefully crafted services, run by a local team, with full support at every step",
+    "meta_title": "Our Services — DiscoverStans",
+    "meta_description": "Explore the travel services DiscoverStans offers, from guided tours to full trip support across Uzbekistan and Central Asia.",
+    "items": {
+        "transportation": {
+            "title": "Transportation",
+            "text": "Comfortable and reliable transport across Central Asia — airport transfers, intercity travel, and private rides with professional drivers"
+        },
+        "visa_support": {
+            "title": "Visa Support",
+            "text": "We help with visa consultations, invitation letters, and documentation for a smooth, stress-free entry"
+        },
+        "tours": {
+            "title": "Tours",
+            "text": "Carefully curated group and private tours across Uzbekistan and Central Asia — culture, nature, and authentic experiences"
+        },
+        "itineraries": {
+            "title": "Itineraries",
+            "text": "Our team of experts handles all the planning and logistics, giving you a detailed itinerary"
+        },
+        "insurance": {
+            "title": "Travel Insurance",
+            "text": "Travel insurance is an essential part of any trip, offering peace of mind and protection"
+        },
+        "corporate": {
+            "title": "Corporate & B2B",
+            "text": "Tailored travel solutions for business, conferences, and group events, with dedicated support"
+        }
+    }
+}

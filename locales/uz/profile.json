@@ -1,0 +1,38 @@
+{
+    "title": "Mening profilim",
+    "full_name": "To'liq ism",
+    "email": "Email",
+    "phone": "Telefon",
+    "language": "Til",
+    "language_uz": "O'zbekcha",
+    "language_ru": "Русский",
+    "language_en": "English",
+    "role": "Rol",
+    "role_admin": "Admin",
+    "role_agent": "Agent",
+    "role_customer": "Mijoz",
+    "save": "Saqlash",
+    "saving": "Saqlanmoqda...",
+    "success": "Profil yangilandi",
+    "error_generic": "Xatolik yuz berdi",
+    "error_load": "Profilni yuklab bo'lmadi",
+    "email_dialog": {
+        "title": "Email manzilini o'zgartirasizmi?",
+        "current": "Joriy email",
+        "next": "Yangi email",
+        "description": "Bu amalni tasdiqlaganingizdan so'ng, tizimga kirish uchun yangi email ishlatiladi.",
+        "cancel": "Bekor qilish",
+        "confirm": "Tasdiqlash"
+    },
+    "bookings": {
+        "title": "Mening buyurtmalarim",
+        "empty": "Hozircha buyurtmalaringiz yo'q",
+        "error_load": "Buyurtmalarni yuklab bo'lmadi",
+        "adults_short": "kattalar",
+        "children_short": "bola",
+        "status_pending": "Kutilmoqda",
+        "status_confirmed": "Tasdiqlangan",
+        "status_completed": "Yakunlangan",
+        "status_cancelled": "Bekor qilingan"
+    }
+}
